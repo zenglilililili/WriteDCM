@@ -3,8 +3,8 @@ savePNG.py :将dcm数据写成png
 
 ###
 Data文件夹目录：  
-  --Data  
-    --doctor1  
+ --Data  
+  --doctor1  
       --patient1  
       
 >>>>>>--CT  
