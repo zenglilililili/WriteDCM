@@ -6,4 +6,6 @@ Data文件夹目录：
   --Data
     --doctor1
       --patient1
+      --patient2
+    --doctor2
  
